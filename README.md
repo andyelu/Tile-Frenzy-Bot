@@ -2,10 +2,7 @@
 
 A bot utilizing OpenCV to automate the frenzy mode on http://www.donttap.com/
 
-)http://www.donttap.com/
-
 # How to use
-
 * Open cmd in Tile-Frenzy-Bot folder and type pip install -r requirements.txt
 * Press s on the fullscreen homepage of http://www.donttap.com/
 * Click the frenzy mode
