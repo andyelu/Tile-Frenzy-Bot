@@ -1,6 +1,6 @@
 # Tile-Frenzy-Bot
 
-A bot utilizing OpenCV to automate the frenzy mode on http://www.donttap.com/
+A Dont Tap the White Tile (http://www.donttap.com/) bot utilizing OpenCV to automate the frenzy mode.
 
 # How to use
 * Open cmd in Tile-Frenzy-Bot folder and type pip install -r requirements.txt
